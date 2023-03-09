@@ -18,7 +18,7 @@
   - [spider-verse](https://github.com/alan-chris/spider-verse)
   - [angular money group](https://github.com/alan-chris/angular-money-group)
   
-- Outros projetos
+- Outros
   - [estudos em c](https://github.com/alan-chris/estudos-em-c)
   - [estudos em python](https://github.com/alan-chris/estudos-em-python)
   - [estudos em java](https://github.com/alan-chris/estudos-em-java)
