@@ -1,4 +1,4 @@
-# alan-chris/projetos
+# /projetos
 
 - Angular
   - [pokedex](https://github.com/alan-chris/pokedex)
