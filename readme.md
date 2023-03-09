@@ -27,6 +27,7 @@
 - Contribuições
   - [he4rt/4noobs](https://github.com/he4rt/4noobs)
   - [mdn/translated-content](https://github.com/mdn/translated-content)
+  - [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
   - [zyedidia/micro](https://github.com/zyedidia/micro)
   - [termux/termux-app](https://github.com/termux/termux-app)
   - [twbs/bootstrap](https://github.com/twbs/bootstrap)
